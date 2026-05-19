@@ -39,16 +39,16 @@ Tenho impulsionado a eficiência operacional e a melhoria de processos em ambien
 ### Projetos e Dashboards
 [![Repositório de Projetos](https://img.shields.io/badge/Portf%C3%B3lio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://marcosjmsoares.github.io/portfolio-marcosjmsoares/repositorios.html)
 
-- **[dbt-core-northwind-project-public](https://github.com/marcosjmsoares/dbt-core-northwind-project-public)** 
+- **[dbt-core-northwind-project-public](https://github.com/marcosjmsoares/dbt-core-northwind-project-public)**  
   Projeto de Data Warehouse utilizando dbt Core com o dataset Northwind e práticas modernas de modelagem.
 
-- **[northwind-dbt-cicd-rds-postgres](https://github.com/marcosjmsoares/northwind-dbt-cicd-rds-postgres)** 
+- **[northwind-dbt-cicd-rds-postgres](https://github.com/marcosjmsoares/northwind-dbt-cicd-rds-postgres)**  
   Projeto de Data Lake com arquitetura Medallion (Bronze, Silver e Gold) usando dbt Core, AWS RDS PostgreSQL e automação com GitHub Actions.
 
-- **[Teste-Tecnico-Python-Acelera-01](https://github.com/marcosjmsoares/Teste-Tecnico-Python-Acelera-01)** 
+- **[Teste-Tecnico-Python-Acelera-01](https://github.com/marcosjmsoares/Teste-Tecnico-Python-Acelera-01)**  
   Projeto com foco em Python, engenharia de dados, ETL, automação e boas práticas.
 
-- **[Teste-Tecnico-Python-Acelera-02](https://github.com/marcosjmsoares/Teste-Tecnico-Python-Acelera-02)** 
+- **[Teste-Tecnico-Python-Acelera-02](https://github.com/marcosjmsoares/Teste-Tecnico-Python-Acelera-02)**  
   Projeto com foco em Python, engenharia de dados, ETL, automação e boas práticas.
 
 - **[Dashboard de Recursos Humanos](https://marcosjmsoares.github.io/portfolio-marcosjmsoares/repositorios.html#dashboard4)**  
