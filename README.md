@@ -1,19 +1,14 @@
 # Marcos José de Moura Soares
 
-**Engenheiro de Dados** com mais de 13 anos de experiência em infraestrutura de TI na área da saúde, Business Intelligence e engenharia de dados, com foco em integração de dados, governança, automação, ETL/ELT, modelagem dimensional, dashboards analíticos e arquiteturas modernas em nuvem.
-
 ## Sobre
 
-Este repositório apresenta meu portfólio profissional como Engenheiro de Dados, reunindo projetos, dashboards, certificações e tecnologias com as quais atuo no dia a dia.
+**Engenheiro de Dados** com mais de 13 anos de experiência em TI Hospitalar, atuando desde Analista de Sistemas até Coordenador de TI, com conhecimentos sólidos em ERP SOUL MV, processos hospitalares e transformação de dados em informações estratégicas para stakeholders.
 
-O objetivo do site é centralizar minha trajetória profissional, destacar competências técnicas e disponibilizar projetos desenvolvidos em dados, analytics e BI.
+Tenho impulsionado a eficiência operacional e a melhoria de processos em ambiente hospitalar de alta complexidade por meio de comunicação eficaz, construção de pipelines ETL/ELT robustos, modelagem de dados, orquestração alinhada às boas práticas e desenvolvimento de dashboard para tomada de decisão por parte dos stakeholders. Desenvolvido diversos projetos usando AWS, dbt, Airflow, Pentaho e SQL avançado.
 
-## Stack Tecnológica
+## Habilidades Técnicas
 
-### Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+** Linguagens **: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white) ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### Orquestração
 ![Pentaho PDI](https://img.shields.io/badge/Pentaho%20PDI-0C7C59?style=for-the-badge&logo=databricks&logoColor=white)
