@@ -1,12 +1,13 @@
 # Marcos José de Moura Soares
-[![Portfólio](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://marcosjmsoares.github.io/portfolio-marcosjmsoares/)
-
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://marcosjmsoares.github.io/portfolio-marcosjmsoares/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosjmsoares) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosjmsoares@gmail.com)
+<br>
 
 ## Sobre
 
 **Engenheiro de Dados** com mais de 13 anos de experiência em TI Hospitalar, atuando desde Analista de Sistemas até Coordenador de TI, com conhecimentos sólidos em ERP SOUL MV, processos hospitalares e transformação de dados em informações estratégicas para stakeholders.
 
 Tenho impulsionado a eficiência operacional e a melhoria de processos em ambiente hospitalar de alta complexidade por meio de comunicação eficaz, construção de pipelines ETL/ELT robustos, modelagem de dados, orquestração alinhada às boas práticas e desenvolvimento de dashboard para tomada de decisão por parte dos stakeholders. Desenvolvido diversos projetos usando AWS, dbt, Airflow, Pentaho e SQL avançado.
+<br>
 
 ## Habilidades Técnicas
 
@@ -23,17 +24,20 @@ Tenho impulsionado a eficiência operacional e a melhoria de processos em ambien
 **Containers:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Versionamento:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
+<br><br>
 
 ### Certificações
-Certificações exibidas no portfólio:
 
-- **AWS Cloud Practitioner (CLF-C02)** — Amazon Web Services
-- **DP-900: Azure Data Fundamentals** — Microsoft
-- **DP-600: Fabric Analytics Engineer** — Microsoft
-- **PL-300: Power BI Data Analyst** — Microsoft
+<p>
+  <img src="https://raw.githubusercontent.com/marcosjmsoares/portfolio-marcosjmsoares/main/img/aws%20CLF-C02-badge.png" alt="AWS CLF-C02" width="120">
+  <img src="https://raw.githubusercontent.com/marcosjmsoares/portfolio-marcosjmsoares/main/img/dp900-badge.png" alt="DP-900" width="120">
+  <img src="https://raw.githubusercontent.com/marcosjmsoares/portfolio-marcosjmsoares/main/img/dp600-badge.png" alt="DP-600" width="120">
+  <img src="https://raw.githubusercontent.com/marcosjmsoares/portfolio-marcosjmsoares/main/img/pl300-badge.png" alt="PL-300" width="120">
+</p>
+<br>
 
-### Repositórios GitHub em Destaque
-Projetos destacados no portfólio:
+### Projetos e Dashboards
+[![Repositório de Projetos](https://img.shields.io/badge/Portf%C3%B3lio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://marcosjmsoares.github.io/portfolio-marcosjmsoares/repositorios.html)
 
 - **[dbt-core-northwind-project-public](https://github.com/marcosjmsoares/dbt-core-northwind-project-public)** 
   Projeto de Data Warehouse utilizando dbt Core com o dataset Northwind e práticas modernas de modelagem.
@@ -47,10 +51,6 @@ Projetos destacados no portfólio:
 - **[Teste-Tecnico-Python-Acelera-02](https://github.com/marcosjmsoares/Teste-Tecnico-Python-Acelera-02)** 
   Projeto com foco em Python, engenharia de dados, ETL, automação e boas práticas.
 
-
-### Dashboards Power BI
-Dashboards apresentados no portfólio:
-
 - **[Dashboard de Recursos Humanos](https://marcosjmsoares.github.io/portfolio-marcosjmsoares/repositorios.html#dashboard4)**  
   Indicadores de headcount, admissões, desligamentos, turnover, massa salarial e people analytics.
 
@@ -63,8 +63,4 @@ Dashboards apresentados no portfólio:
 - **[Desafio Kickstart - Internações Hospitalares | XHospital](https://marcosjmsoares.github.io/portfolio-marcosjmsoares/repositorios.html#dashboard1)**  
   Dashboard com admissões, saídas, permanência média, mortalidade, receita e projeções.
 
-## Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosjmsoares)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosjmsoares@gmail.com)
 
